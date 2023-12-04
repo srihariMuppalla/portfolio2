@@ -39,6 +39,10 @@ ul{
     list-style: none;
 }
 
+.a-color {
+    color: inherit;
+}
+
 .section {
     background: var(--bg-black-900);
     min-height: 100vh;
