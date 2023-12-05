@@ -830,6 +830,18 @@ margin: 15px 0;
     .home .home-img {
         display: none;
     }
+    .home .show {
+        display: block!important;
+        text-align: center;
+        margin-bottom: 20px;
+        
+    }
+
+    .home .show img {
+        width: 100%;
+        max-width: 500px;
+        margin: 0 auto!important;
+    }
 }
 
 @media (max-width: 767px) 
