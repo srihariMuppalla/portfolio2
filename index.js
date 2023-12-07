@@ -1,7 +1,7 @@
 /* ====== Typing Code Start ====== */
 
 var typed = new Typed(".typing", {
-    strings: ["","Web Developer", "Email Developer", "Hubspot Developer", "Amp Script Developer"],
+    strings: ["", "Email Developer", "Hubspot Developer", "Amp Script Developer"],
     typeSpeed: 100,
     backSpeed: 100,
     loop: true
